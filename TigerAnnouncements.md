@@ -14,6 +14,8 @@
 - 11/05/19 - Den Meeting?
 - 11/07/19 - District Roundtable - Leaders should go to 4 a year
 - 11/08/19 - Native American Weekend
+- 11/11/19 - Veteran's Day Presentation at Parr, 
+- - Invite Veterans / family members
 - 11/12/19 - Den Meeting or Pack Meeting?
 - 11/16/19 - Shooting Sports Day
 - - Lions cannot use BB Guns but can use archery, slingshots
