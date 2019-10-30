@@ -1,6 +1,12 @@
 # Announcements
 
+## Positions Needed
+
+- Quartermaster
+- Advancement Chair
+
 ## Links
+
 - (Den Leader Training Award)[https://filestore.scouting.org/filestore/training/pdf/511-052_WB.pdf]
 - (Scouter's Training Award)[https://filestore.scouting.org/filestore/training/pdf/511-057_WB.pdf]
 - (Cubmaster's Key)[https://filestore.scouting.org/filestore/training/pdf/511-053_WB.pdf]
