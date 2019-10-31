@@ -1,14 +1,13 @@
 # Announcements
 
-- Den Leaders have a budget. Keep your reciepts
-
 ## Positions Needed
-
 - Quartermaster
 - Advancement Chair
 
-## Links
+## Den Budget
+$100/ye. Keep your receipts
 
+## Award Links
 - (Den Leader Training Award)[https://filestore.scouting.org/filestore/training/pdf/511-052_WB.pdf]
 - (Scouter's Training Award)[https://filestore.scouting.org/filestore/training/pdf/511-057_WB.pdf]
 - (Cubmaster's Key)[https://filestore.scouting.org/filestore/training/pdf/511-053_WB.pdf]
@@ -19,7 +18,7 @@
 11/05/19, 6:30 PM, 
 Legion Hall, League City
 
-### Disctrict Roundtable
+### District Roundtable
 11/07/19, 7:00 PM - 8:30 PM 
 First United Methodist Church, Dickinson
 - Leader Award for attending 4 times
