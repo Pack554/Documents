@@ -13,28 +13,6 @@ $100/yr. Keep your receipts
 
 ## Events
 
-### Shooting Sports Day
-11/16/19
-Camp K, Sweeney
-- Lions cannot use BB Guns but can use archery, slingshots
-- Dave Barker needs volunteers
-- barkerscout1@gmail.com
-- 713-851-9547 
-
-### Geocache w/ AOLs
-11/17/19, 1:00 PM - 5:30 PM, Challenger Seven Memorial Park
-- POC Matt Fonville, 904-803-2193
-
-### Family Fit Night
-11/19/19, 6:00 PM - 8:00 PM
-Parr Elementary, League City
-- Coach Goodsel welcomes non Parr families
-
-### Thanksgiving Break
-11/25/19 - 11/29/19
-- Duty to God?
-- 'Thank you for your service' cards for firehouse visit?
-
 ### Firehouse Visit
 12/03/19, 6:30 PM - 7:30 PM, Fire Station #2, 2120 Hobbs Road
 - Parent involvement
