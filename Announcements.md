@@ -67,13 +67,51 @@ Bay Harbour United Methodist Church, 3459 FM 518 East, League City, TX 77573
 02/01/20 - PineWood Derby
 - Wolves hosting
 
+### Council 10 Commandmets Hike
+http://www.bacbsa.org/10-commandments-hike/72014
+
 ### Blue & Gold
 02/23/20 - Blue & Gold
 - Bears hosting
 
+### Baloo Training
+03/21/20 
+http://www.bacbsa.org/registration/calendardetail.aspx?activitykey=2570071&orgkey=2468&ReturnURL=//www.bacbsa.org/app/calendar/month/2468/2020-03-01/2468/0/
+
+### Council Cub-O-Ree
+03/27-29/20 
+Camp K?
+http://www.bacbsa.org/cub-o-ree-/68069
+
+### Scout Fair
+04/04//20 
+NRG Arena
+https://www.samhoustonbsa.org/scout-fair
+
+### Council Cub Scout STEM NOVA Day
+05/09/20 
+Camp K
+http://www.bacbsa.org/cub-scout-shooting-sports-day/71145
+
 ### Crossover
 05/19/20 
 - Everyone should have Rank
+
+### Council Cub Twilight Camp
+07/08-12/20 
+Galveston County Faigrounds
+http://www.bacbsa.org/program/cub-day-camps/52614
+
+### Council Cub Scout Swim Day
+07/11/20 
+Camp K
+http://www.bacbsa.org/cub-scout-shooting-sports-day/71145
+
+### Council Cub Scout Shooting Sports Day
+09/19/20 
+Camp K
+http://www.bacbsa.org/cub-scout-shooting-sports-day/71145
+
 
 ## Opportunities
 
