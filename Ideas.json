@@ -27,12 +27,12 @@
     { "Place": "Alvin Historical Museum", "Town": "Alvin", "Ideas" : ["Field Trip"] },
     { "Place": "Nolan Ryan Center", "Town": "Alvin", "Ideas" : ["Field Trip"] },
     { "Place": "Camp Mohawk County Park", "Town": "Alvin", "Ideas" : ["Field Trip", "Field Day"] },
-    { "Place": "Gatorfest", "Town": "", "Ideas" : ["Field Trip"] },
+    { "Place": "Gatorfest", "Town": "Anahuac", "Ideas" : ["Field Trip"] },
     { "Place": "Scout Day at Schlitterbahn", "Town": "Galveston", "Ideas" : ["Field Trip"] },
     { "Place": "Wings Over Houston", "Town": "Houston", "Ideas" : ["Field Trip"] },
     { "Place": "Touch a Truck", "Town": "Texas City", "Ideas" : ["Field Trip"] },
-    { "Place": "LCPD", "Town": "Texas City", "Ideas" : ["Field Trip"] },
-    { "Place": "LCVFD", "Town": "Texas City", "Ideas" : ["Field Trip"] },
+    { "Place": "League City Police Department", "Town": "Texas City", "Ideas" : ["Field Trip"] },
+    { "Place": "League City Volunteer Fire Department", "Town": "Texas City", "Ideas" : ["Field Trip"] },
     { "Place": "Galveston Railroad Museum", "Town": "Galveston", "Ideas" : ["Field Trip"] },
     { "Place": "Houston Museum of Natural Science", "Town": "Houston", "Ideas" : ["Field Trip"] },
     { "Place": "Texas City Museum", "Town": "Texas City", "Ideas" : ["Field Trip"] },
@@ -43,6 +43,8 @@
     { "Place": "Lone Star Flight Museum", "Town": "Webster", "Ideas" : ["Field Trip", "Party"] },
     { "Place": "Neighborhood Park Takeover", "Town": "Any", "Ideas" : ["Field Trip", "Party"] },
     { "Place": "Bike Rally", "Town": "Any", "Ideas" : ["Field Trip", "Party"] },
-    
+    { "Place": "Star Base - Ellington", "Ideas" : ["Camp"] },
+    { "Place": "Houston Museum of Natural Science"},
+    { "Place": "Pine Gully Park", "Town":"Seabrook", "Ideas" : ["Field Trip", "Party"] },    
     ]
   }
